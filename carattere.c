@@ -10,5 +10,6 @@ int main(int argc, char *argv[])
     // printf("Hai inserito il seguente carattere: %c\n", carattere);
     //putchar(carattere); // alternativa per stampare
     printf("Il codice relativo del carattere inserito è: %d\n", carattere); //dato che il codice è intero metto %d
+    	//Ciaos
     return 0;
 }
